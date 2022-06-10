@@ -19,8 +19,10 @@ Things i've coded with <br />
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Latest projects
+[PlantSpire](https://github.com/AudunTA/PlantSpire_p "PlantSpire repository")
+[RainyDays](https://github.com/AudunTA/RainyDays "RainyDays repository")
+[International Sience Museum Kristiasand](https://github.com/AudunTA/ISMK "ISMK repository")
 
-[list 3 projects]
 ### Contact
 
 feel free to send me a message <br />
