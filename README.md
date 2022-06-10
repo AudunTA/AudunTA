@@ -2,7 +2,7 @@
 
 I'm Audun, currently a Front-end Student at Noroff in Kristiansand, Norway.
 
-[portfolio link]
+https://teal-chebakia-917877.netlify.app/
 
 
 Things i've coded with <br />
