@@ -23,6 +23,6 @@ Things i've coded with <br />
 [list 3 projects]
 ### Contact
 
-feel free to send me a message 
+feel free to send me a message <br />
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/audun-thompson-anderssen-79b3b3222/)
 
