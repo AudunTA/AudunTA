@@ -2,7 +2,7 @@
 
 I'm Audun, currently a Front-end Student at Noroff in Kristiansand, Norway.
 
-https://teal-chebakia-917877.netlify.app/
+[I'm an inline-style link with title](https://teal-chebakia-917877.netlify.app/ "Google's Homepage")
 
 
 Things i've coded with <br />
