@@ -9,7 +9,7 @@ I'm Audun, currently a Front-end Student at Noroff in Kristiansand, Norway.
 
 Things i've coded with <br />
 
-
+![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -19,9 +19,9 @@ Things i've coded with <br />
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Latest projects
-[PlantSpire](https://github.com/AudunTA/PlantSpire_p "PlantSpire repository") <br />
-[RainyDays](https://github.com/AudunTA/RainyDays "RainyDays repository") <br />
-[International Sience Museum Kristiasand](https://github.com/AudunTA/ISMK "ISMK repository")
+[PlantSpire](https://github.com/AudunTA/ReactoTech "ReactoTech") <br />
+[RainyDays](https://github.com/AudunTA/SemesterAssignment_Auctionhouse "AuctionHouse") <br />
+[International Sience Museum Kristiasand](https://github.com/AudunTA/PlantSpire "PlantSpire")
 
 ### Contact
 
