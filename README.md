@@ -2,7 +2,7 @@
 
 I'm Audun, currently a Front-end Student at Noroff in Kristiansand, Norway.
 
-![featured img](https://github.com/AudunTA/AudunTA/blob/main/9b5f06c1ab093dc453dd6694ed33eae5.png "Logo")
+![featured img](https://github.com/AudunTA/AudunTA/blob/main/reactoTech.png "Feautred image")
 
 [My portfolio](https://teal-chebakia-917877.netlify.app/ "Google's Homepage")
 
