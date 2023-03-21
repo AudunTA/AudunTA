@@ -19,9 +19,9 @@ Things i've coded with <br />
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Latest projects
-[PlantSpire](https://github.com/AudunTA/ReactoTech "ReactoTech") <br />
-[RainyDays](https://github.com/AudunTA/SemesterAssignment_Auctionhouse "AuctionHouse") <br />
-[International Sience Museum Kristiasand](https://github.com/AudunTA/PlantSpire "PlantSpire")
+[ReactoTech](https://github.com/AudunTA/ReactoTech "ReactoTech") <br />
+[AuctionHouse](https://github.com/AudunTA/SemesterAssignment_Auctionhouse "AuctionHouse") <br />
+[PlantSpire](https://github.com/AudunTA/PlantSpire "PlantSpire")
 
 ### Contact
 
