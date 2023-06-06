@@ -4,7 +4,7 @@ I'm Audun, currently a Front-end Student at Noroff in Kristiansand, Norway.
 
 ![featured img](https://github.com/AudunTA/AudunTA/blob/main/reactoTech.png "Feautred image")
 
-[My portfolio](https://audunta.github.io/Portfolio/ "Google's Homepage")
+[My portfolio](https://portfolio-ata.netlify.app/ "portfolio")
 
 
 Things i've coded with <br />
